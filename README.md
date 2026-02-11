@@ -33,10 +33,11 @@ Running from source requires minimal experience with:
 - Git (clone repository)
 - Python (run scripts)
 - pip (install dependencies)
+(For beginners, we recommend downloading the ready-made portable version .exe 💾)
 
 <details>
 <summary>▶ Click to see the process</summary>
-(For beginners, we recommend downloading the ready-made portable version .exe 💾)
+
 
 
 
