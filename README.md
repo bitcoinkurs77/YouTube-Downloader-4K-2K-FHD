@@ -16,3 +16,22 @@ In other words, you get exactly the same quality that YouTube gives on the serve
 - Minimalistic and clear design
 
 ## Screenshots
+
+
+
+
+
+
+
+
+
+
+## ⚠️ Disclaimer / Liability Disclaimer
+
+**This software is intended solely for educational purposes, testing, and personal use, as long as it is legal and permitted by the copyright holder.**
+Downloading YouTube videos using this software **violates YouTube's Terms of Service**.  
+The author does not encourage violating platform rules and copyright laws.  
+
+ The software is provided "as is". You use it at your own risk. The author assumes no responsibility for any consequences of use (account blocking, claims of copyright holders, legal risks, etc.).
+
+More: [YouTube Terms of Service](https://www.youtube.com/static?template=terms)
